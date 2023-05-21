@@ -1,0 +1,1 @@
+This is a simple shopping website built using HTML, CSS, and JavaScript. It features a homepage with a list of items for sale, a shopping cart where users can add and remove items, and a checkout page where users can complete their purchase.
