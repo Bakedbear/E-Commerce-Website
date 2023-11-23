@@ -5,10 +5,9 @@ Features:
 - [x] Main page with items
 - [x] Responsive
 - [x] Stylish layout 
-- [ ]  Shopping Cart
-- [ ]  Detailed view of items
-- [ ]  Payment Gateway
-- [ ]  Search functionality
+- [x] Shopping Cart
+- [x] Detailed view of item
+- [ ] Search functionality
 
 ### Installation
 To run this website on your local machine, simply clone the repository and open the index.html file in your web browser.
